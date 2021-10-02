@@ -97,6 +97,7 @@ ul.wavesList li {
 .winner {
   text-align: right;
   color: rgb(243, 43, 43);
+  font-size: large;
 }
 /* loader css */
 .loader,

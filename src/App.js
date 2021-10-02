@@ -139,7 +139,7 @@ export default function App() {
           address: wave.waver,
           timestamp: new Date(wave.timestamp * 1000),
           message: wave.message,
-          winner: true
+          winner: wave.winner
         })
       })
 
